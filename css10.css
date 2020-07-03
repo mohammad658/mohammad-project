@@ -1,0 +1,40 @@
+*{margin: 0px;padding: 0px;}
+body{background-image:url(pro2.jpg);background-repeat: no-repeat;background-size: cover;}
+#nav_menu ul li{list-style-type:none
+    ;margin: 20px;
+    float: left;}
+#nav_menu ul li a{text-decoration: none;
+font-size: 15px;
+color: #11010194;
+padding: 10px;
+text-shadow: 2px 1px #827d7d;}
+#nav_menu{width: 800px;
+    height: 60px;
+    background-color:#22324e;}
+#nav_menu ul li a:hover{text-decoration: underline;background-color: #8e9aaf;transition: 0.7s}
+#nav_menu{position: sticky;
+    top: 0px;
+    z-index: 1;}
+p{clear: left;}
+
+
+
+div#amarid{       width: 300px;
+    padding: 10PX;
+    background: #cfd7cd3d;
+    position: absolute;
+    top: 70px;
+    left: 70px;}
+div#inputfield input{margin-bottom: 10px;width: 99%;padding-bottom: 8px;padding-top: 8px;border: 1px solid #ddd}
+
+.moha{background: #03A9F4;margin-bottom: 10px;width: 100%}
+
+.moha h2{font-size: 16px; padding: 10px;margin: 0px;color: white;font-family: arial black;}
+
+.sha input{background:#03A9F4;color: white;padding: 8pa;width: 100%;border: 1px solid #03A9F4;border-radius: 5px}
+
+div#inputfield select{margin-bottom: 10px;width: 99%;padding-bottom: 8px;padding-top: 8px;border: 1px solid #ddd}
+
+.moha span{width: 95%;padding: 8px;margin-bottom: 10px;display: block;background: white}
+
+.list li{display:none;}
